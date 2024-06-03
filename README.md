@@ -2,7 +2,7 @@
 
 So far, I've only managed to go over the website, to find minor ways that the website can be improved. It's mostly minor changes that would improve the overall feel of the website.
 
-**NOTE**: I opened the website on Safari, and Brave. This behavior seemed consistent on both. 
+**NOTE**: I opened the website on Safari, and Brave. This behavior is consistent on both. 
 
 #### Dark Mode
 I'm sure this isn't a top priority, but I'd look into the possibility of adding dark mode support to the website.
